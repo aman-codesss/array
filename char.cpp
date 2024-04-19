@@ -18,6 +18,7 @@ int main(){
     char b[8]={'a','b','d','e'};
     charArray(b,8);
     int SIZE_ARR = sizeof(a)/sizeof(int);
+    cout<<SIZE_ARR;
     //you can never find out the actual array elements size.
 
 }
